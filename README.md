@@ -1,5 +1,5 @@
 
-# Resume Builder — BSERC Week 2 Project 3
+# Resume Builder —  Week 2 Project 3
 
 ## Run
 Open `Resume_Builder.html` directly in Chrome or Edge. No installation, login, internet, paid API or server is needed.
